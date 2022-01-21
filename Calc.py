@@ -2,7 +2,7 @@ from audioop import add
 from cmath import sqrt
 from wsgiref.validate import InputWrapper
 import math
-print("Input one of operand to run ---- add,sub,mul,div,sqrt")
+print("Input one of operand to run ---- add,sub,mul,div,sqrt test")
 opr = input("Input Operation ")
 a = int(input("first value "))
 b = int(input("second value "))
